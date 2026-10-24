@@ -1,0 +1,14 @@
+body {
+	background-color: #FFFFAF;
+}
+
+.buttons {
+	display: flex;
+	gap: 50px;
+}
+
+.teacher-entry {
+	display: flex;
+	flex-direction: row;
+	gap: 50px;
+}
